@@ -11,8 +11,8 @@ namespace Guids
             id.ToString();
 
             id = new Guid("ab59c2d1-a1b1-4399-89e4-eb9535f9516e");
-            //Console.WriteLine(id.ToString().Substring(0, 8));
-            Console.WriteLine(id);
+            Console.WriteLine(id.ToString().Substring(0, 8));
+            //Console.WriteLine(id);
         }
 
     }
