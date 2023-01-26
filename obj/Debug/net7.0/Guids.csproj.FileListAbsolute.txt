@@ -1,0 +1,15 @@
+C:\Users\cmsou\soucer\Dotnet\String\Guids\bin\Debug\net7.0\Guids.exe
+C:\Users\cmsou\soucer\Dotnet\String\Guids\bin\Debug\net7.0\Guids.deps.json
+C:\Users\cmsou\soucer\Dotnet\String\Guids\bin\Debug\net7.0\Guids.runtimeconfig.json
+C:\Users\cmsou\soucer\Dotnet\String\Guids\bin\Debug\net7.0\Guids.dll
+C:\Users\cmsou\soucer\Dotnet\String\Guids\bin\Debug\net7.0\Guids.pdb
+C:\Users\cmsou\soucer\Dotnet\String\Guids\obj\Debug\net7.0\Guids.csproj.AssemblyReference.cache
+C:\Users\cmsou\soucer\Dotnet\String\Guids\obj\Debug\net7.0\Guids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmsou\soucer\Dotnet\String\Guids\obj\Debug\net7.0\Guids.AssemblyInfoInputs.cache
+C:\Users\cmsou\soucer\Dotnet\String\Guids\obj\Debug\net7.0\Guids.AssemblyInfo.cs
+C:\Users\cmsou\soucer\Dotnet\String\Guids\obj\Debug\net7.0\Guids.csproj.CoreCompileInputs.cache
+C:\Users\cmsou\soucer\Dotnet\String\Guids\obj\Debug\net7.0\Guids.dll
+C:\Users\cmsou\soucer\Dotnet\String\Guids\obj\Debug\net7.0\refint\Guids.dll
+C:\Users\cmsou\soucer\Dotnet\String\Guids\obj\Debug\net7.0\Guids.pdb
+C:\Users\cmsou\soucer\Dotnet\String\Guids\obj\Debug\net7.0\Guids.genruntimeconfig.cache
+C:\Users\cmsou\soucer\Dotnet\String\Guids\obj\Debug\net7.0\ref\Guids.dll
