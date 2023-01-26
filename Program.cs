@@ -28,7 +28,8 @@ namespace Guids
     - Guids para que um identificador seja usado exclusivamente, utilizamos o guids.
     - Assim esse identificador possui a possibilidade muito baixa de duplicação.
     - Alguns definições usando metodos To e subtring;
-        => Diminuição da quantidade de caracteres do identificador principal.
+        => Diminuição da quantidade de caracteres do identificador principal usando
+           metodo substring().
         => Melhor manipulação dos dados.
 
 
