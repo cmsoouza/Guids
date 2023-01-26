@@ -25,8 +25,18 @@ namespace Guids
     Links para consultas:
     https://learn.microsoft.com/pt-br/dotnet/api/system.guid?view=net-7.0 
 
-    - Guids para que um identificador seja usado exclusivamente, utilizamos o guids.
     - Assim esse identificador possui a possibilidade muito baixa de duplicação.
+    - Ao utilizamos o NewGuid() inicializar uma nova instancia na guid.
+    - Quando usamos o ToString() pode contexto o mesmo irá transformar o rach
+      em uma string.
+    - Algumas definições:
+        => Identificadores (id) possuem particularidades particulares.
+        => Para realizar operações em BD utilizando esses id usamos guids.
+        => Cada execução o compilador irá gerar um novo rach da guid.
+    - Caso passassemos uma string para guid vazia o mesmo irá retornar
+      erro de execeção.
+    - Passando o mesmo rach para string o mesmo irá compilar o paramentro
+      passado.
 
 
 
