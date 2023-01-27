@@ -31,7 +31,4 @@ namespace Guids
         => Diminuição da quantidade de caracteres do identificador principal usando
            metodo substring().
         => Melhor manipulação dos dados.
-
-
-
  */
