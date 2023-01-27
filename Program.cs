@@ -1,21 +1,24 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
 namespace Guids
 {
-    class Program
-    {
-        static void Main()
-        {
-            var id = Guid.NewGuid();
-            id.ToString();
+  class Program
+  {
+      public static void Main()
+      {
+        var id = Guid.NewGuid(); // Cria um novo guid
+        id.ToString(); // transforma o guid em string
 
-            //id = new Guid("ab59c2d1-a1b1-4399-89e4-eb9535f9516e");
-            id = new Guid();
-            //Console.WriteLine(id.ToString().Substring(0, 8));
+          //id = new Guid("ab59c2d1-a1b1-4399-89e4-eb9535f9516e");
+          //id = new Guid();
+          Console.WriteLine(id.ToString().Substring(0, 8));
 
-            //if (id == Guid.NewGuid())
-            Console.WriteLine(id);
+          //if (id == Guid.NewGuid())
+          Console.WriteLine(id); // Mostra no console
         }
 
     }
@@ -41,6 +44,8 @@ namespace Guids
       erro de execeção.
     - Passando o mesmo rach para string o mesmo irá compilar o paramentro
       passado.
+    - l'18 usando toString e substring para limitar o tamanho dos caracteres passados
+    como paramentros.
 
 
 
